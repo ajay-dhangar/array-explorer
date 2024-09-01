@@ -1851,7 +1851,7 @@ webpackJsonp(
                 {
                   staticClass: "github-corner",
                   attrs: {
-                    href: "https://github.com/ajay-dhangar",
+                    href: "https://github.com/ajay-dhangar/array-explorer",
                     "aria-label": "View source on Github",
                   },
                 },
